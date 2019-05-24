@@ -10,8 +10,8 @@ import(
 	"github.com/stianeikeland/go-rpio"
         "os"
         "time"
-	"rpi_ws281x/golang/ws2811"
-	"gocron-master/gocron-master"
+	"github.com/jgarff/rpi_ws281x/golang/ws2811"
+	"github.com/jasonlvhit/gocron"
 )
 
 
